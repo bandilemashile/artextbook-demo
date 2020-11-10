@@ -13,7 +13,7 @@ Apk is in zip folder
 
 
 
-![Test Image 3](Page1.png)
+![Test Image 3](Page1.JPG)
 
 
 
@@ -27,7 +27,7 @@ Truck is seen moving on the street
 
 
 
-![Test Image 4](PAGE9.png)
+![Test Image 4](PAGE9.JPG)
 
 
 
