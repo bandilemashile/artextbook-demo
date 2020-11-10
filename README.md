@@ -27,7 +27,7 @@ Truck is seen moving on the street
 
 
 
-![Test Image 4](PAGE9.JPG)
+![Test Image 4](Page9.JPG)
 
 
 
