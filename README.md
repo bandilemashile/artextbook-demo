@@ -20,7 +20,6 @@ Apk is in zip folder
 
 
 
-Truck is seen moving on the street 
 
 
 
